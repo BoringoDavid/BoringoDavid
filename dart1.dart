@@ -1,12 +1,10 @@
 //printing only
 
-import 'dart:io';
+//import 'dart:io';
 
-void main ()
-{
-
-String firstName='BORINGO';
-String lastName='boringo';
+void main() {
+  String firstName = 'BORINGO';
+  String lastName = 'boringo';
 //print('hello all mine\n $firstName + $lastName');
-print("hello all mine");
+  print("hello all mine\n ${lastName + firstName}");
 }
