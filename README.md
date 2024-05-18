@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @BoringoDavid
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on specialist in python programing
+- 👋My Goal is To develop my career goals in IT field, especially Networking field with respect to its stable security. 
 - 📫 How to reach me use my facebook account: kibogo ange david twitter:BoringoDavid ig:boringodavid
 
 <!---
